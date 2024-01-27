@@ -1,5 +1,5 @@
 
-# How to Set Up Tor for Linux (In This Method We Fixed DNS TimeOut)
+# How to Set Up Tor for Linux (In This Method We Fix DNS TimeOut Error)
 
 **Step 1: Install Necessary Libraries**
 
